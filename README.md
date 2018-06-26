@@ -2,7 +2,7 @@
 
 A small no-dependency module to tell you if the current machine has a physical touchbar or not.
 
-**Note**: This module checks for *real physical* touchbar. Even if you run a touchbar simulator, it will still return false.
+**Note**: This module checks for *real physical* touchbar. Even if you run a touchbar simulator, if your mac does not have a touchbar, it will still return false.
 
 ## Installation
 
