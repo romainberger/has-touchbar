@@ -1,0 +1,19 @@
+{
+  "name": "has-touchbar",
+  "description": "A small no-dependency module to tell you if the current machine has a physical touchbar or not.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Romain Berger <romain@romainberger.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/romainberger/has-touchbar"
+  },
+  "bugs": {
+    "url": "https://github.com/romainberger/has-touchbar"
+  },
+  "homepage": "https://github.com/romainberger/has-touchbar",
+  "keywords": [
+    "touchbar"
+  ],
+  "license": "MIT"
+}
