@@ -13,7 +13,10 @@
   },
   "homepage": "https://github.com/romainberger/has-touchbar",
   "keywords": [
-    "touchbar"
+    "touchbar",
+    "electron",
+    "electronjs",
+    "macOS"
   ],
   "license": "MIT"
 }
